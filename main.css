@@ -1,5 +1,6 @@
 * {
     box-sizing: border-box;
+    overflow: hidden;
 }
 html {
     background: url(http://1.bp.blogspot.com/-olGHQWTmk3A/T0tZVSU3CDI/AAAAAAAABbA/EgjurSou6_Q/s1600/12.jpg);
@@ -20,6 +21,7 @@ body {
     font-size: 5vw;
     color: black;
     text-decoration: none;
+    border-radius: 5px;
 }
 .nav-item a:hover {
     border: 2px solid black;
