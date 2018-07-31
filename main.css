@@ -2,6 +2,7 @@
     box-sizing: border-box;
 }
 html {
+    background: url(http://1.bp.blogspot.com/-olGHQWTmk3A/T0tZVSU3CDI/AAAAAAAABbA/EgjurSou6_Q/s1600/12.jpg);
     width: 100%;
     height: 100%;
 }
@@ -72,7 +73,5 @@ body {
 }
 .card {
     background-color: grey;
-}
-.card li {
-    text-decoration: none;
+    padding: 3%;
 }
